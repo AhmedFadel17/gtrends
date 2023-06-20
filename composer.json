@@ -1,0 +1,19 @@
+{
+  "name": "ahmedfadel/gtrends",
+  "description": "Unofficial Google Trends API",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "MyVendor\\MyPackage\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "ahmed fadel",
+      "email": "ahmedfadel1717@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.0"
+  }
+}
